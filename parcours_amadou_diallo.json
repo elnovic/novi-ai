@@ -1,0 +1,157 @@
+{
+  "profil": {
+    "nom": "Amadou Diallo",
+    "age": 22,
+    "niveau_actuel": "débutant",
+    "formation_actuelle": "Licence en informatique",
+    "objectifs": [
+      "Travailler dans l'IA",
+      "Créer des projets concrets"
+    ],
+    "domaines_interets": [
+      "IA",
+      "Robotique",
+      "IOT"
+    ],
+    "cours_deja_suivis": [],
+    "temps_disponible": "2 heures par jour",
+    "style_prefere": "pratique avec des projets"
+  },
+  "analyse": {
+    "niveau_detecte": "débutant",
+    "domaines_prioritaires": [
+      "IA",
+      "Robotique",
+      "IOT"
+    ],
+    "competences_actuelles": [],
+    "competences_manquantes": [
+      "programmation",
+      "algorithmie",
+      "conception de projets"
+    ],
+    "objectif_principal": "Travailler dans l'IA et créer des projets concrets",
+    "temps_disponible_semaine": "14 heures",
+    "style_apprentissage": "pratique"
+  },
+  "selection": {
+    "cours_recommandes": [
+      {
+        "id": "cours_001",
+        "titre": "Introduction à l'Intelligence Artificielle",
+        "raison": "Ce cours est recommandé car il correspond au niveau débutant de l'apprenant et répond à son objectif principal de travailler dans l'IA. Il acquerra des compétences de base en IA, machine learning et deep learning.",
+        "priorite": 1,
+        "duree_adaptee": "12 heures sur 2 semaines"
+      },
+      {
+        "id": "cours_002",
+        "titre": "Python pour la Data Science",
+        "raison": "Ce cours est recommandé car il répond à la compétence manquante en programmation et est un prérequis pour de nombreux cours d'IA. L'apprenant pourra acquérir des compétences en python, pandas, numpy et visualisation.",
+        "priorite": 2,
+        "duree_adaptee": "10 heures sur 1 semaine et demi"
+      },
+      {
+        "id": "cours_004",
+        "titre": "Introduction à l'IOT",
+        "raison": "Ce cours est recommandé car il correspond à l'un des domaines d'intérêt de l'apprenant et lui permettra d'acquérir des compétences en capteurs, arduino, raspberry pi et protocoles IOT.",
+        "priorite": 3,
+        "duree_adaptee": "8 heures sur 1 semaine"
+      }
+    ],
+    "cours_a_eviter": [
+      {
+        "id": "cours_003",
+        "raison": "Ce cours n'est pas adapté maintenant car il nécessite des prérequis que l'apprenant n'a pas encore acquis (bases IA et python). Il est préférable de suivre les cours recommandés ci-dessus avant de s'inscrire à ce cours."
+      },
+      {
+        "id": "cours_005",
+        "raison": "Ce cours n'est pas adapté maintenant car il nécessite des prérequis que l'apprenant n'a pas encore acquis (python et capteurs). Il est préférable de suivre les cours recommandés ci-dessus avant de s'inscrire à ce cours."
+      },
+      {
+        "id": "cours_006",
+        "raison": "Ce cours n'est pas directement lié aux objectifs et domaines d'intérêt de l'apprenant. Il peut être suivi plus tard si nécessaire."
+      },
+      {
+        "id": "cours_007",
+        "raison": "Ce cours n'est pas directement lié aux objectifs et domaines d'intérêt de l'apprenant. Il peut être suivi plus tard si nécessaire."
+      }
+    ]
+  },
+  "parcours": {
+    "nom_parcours": "Débutant vers Expert en IA et IOT",
+    "description": "Ce parcours est conçu pour vous aider à atteindre vos objectifs dans l'Intelligence Artificielle et l'Internet des Objets. Vous apprendrez les bases de l'IA, la programmation Python, et les fondamentaux de l'IOT.",
+    "duree_totale": "6 semaines",
+    "objectif_final": "Créer des projets concrets en IA et IOT",
+    "etapes": [
+      {
+        "semaine": 1,
+        "cours_id": "cours_001",
+        "titre_cours": "Introduction à l'Intelligence Artificielle",
+        "objectif_semaine": "Comprendre les bases de l'IA, du machine learning et du deep learning",
+        "heures_par_jour": 2,
+        "conseil_motivation": "Restez motivé en vous fixant des objectifs réalistes et en suivant vos progrès"
+      },
+      {
+        "semaine": 2,
+        "cours_id": "cours_001",
+        "titre_cours": "Introduction à l'Intelligence Artificielle",
+        "objectif_semaine": "Approfondir les connaissances en IA et commencer à travailler sur des projets",
+        "heures_par_jour": 2,
+        "conseil_motivation": "N'oubliez pas de prendre des notes et de réviser régulièrement"
+      },
+      {
+        "semaine": 3,
+        "cours_id": "cours_002",
+        "titre_cours": "Python pour la Data Science",
+        "objectif_semaine": "Apprendre les bases de la programmation Python et de la Data Science",
+        "heures_par_jour": 2,
+        "conseil_motivation": "Pratiquez régulièrement pour améliorer vos compétences en Python"
+      },
+      {
+        "semaine": 4,
+        "cours_id": "cours_002",
+        "titre_cours": "Python pour la Data Science",
+        "objectif_semaine": "Approfondir les connaissances en Python et commencer à travailler sur des projets de Data Science",
+        "heures_par_jour": 2,
+        "conseil_motivation": "Rejoignez une communauté de développeurs pour partager vos expériences et apprendre des autres"
+      },
+      {
+        "semaine": 5,
+        "cours_id": "cours_004",
+        "titre_cours": "Introduction à l'IOT",
+        "objectif_semaine": "Comprendre les bases de l'IOT et commencer à travailler sur des projets",
+        "heures_par_jour": 2,
+        "conseil_motivation": "N'ayez pas peur de faire des erreurs, elles font partie du processus d'apprentissage"
+      },
+      {
+        "semaine": 6,
+        "cours_id": "cours_004",
+        "titre_cours": "Introduction à l'IOT",
+        "objectif_semaine": "Approfondir les connaissances en IOT et créer des projets concrets",
+        "heures_par_jour": 2,
+        "conseil_motivation": "Félicitations pour avoir atteint la fin du parcours ! Continuez à apprendre et à vous améliorer"
+      }
+    ],
+    "jalons": [
+      {
+        "semaine": 2,
+        "titre": "Jalon 1 : Introduction à l'IA",
+        "description": "Vous avez terminé le cours d'introduction à l'IA et avez acquis les bases de l'IA, du machine learning et du deep learning",
+        "badge_debloque": "Badge IA"
+      },
+      {
+        "semaine": 4,
+        "titre": "Jalon 2 : Python pour la Data Science",
+        "description": "Vous avez terminé le cours de Python pour la Data Science et avez acquis les bases de la programmation Python et de la Data Science",
+        "badge_debloque": "Badge Python"
+      },
+      {
+        "semaine": 6,
+        "titre": "Jalon 3 : Introduction à l'IOT",
+        "description": "Vous avez terminé le cours d'introduction à l'IOT et avez acquis les bases de l'IOT",
+        "badge_debloque": "Badge IOT"
+      }
+    ],
+    "message_personnalise": "Félicitations pour avoir choisi ce parcours ! Vous êtes sur la bonne voie pour atteindre vos objectifs dans l'IA et l'IOT. N'oubliez pas de rester motivé et de pratiquer régulièrement. Vous pouvez le faire !"
+  }
+}
