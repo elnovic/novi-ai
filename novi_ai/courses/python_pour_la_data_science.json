@@ -1,0 +1,313 @@
+{
+  "titre": "Introduction à Python pour la Data Science",
+  "description": "Dans ce cours, les étudiants en informatique découvriront les fondements de Python pour la Data Science. Ils apprendront à utiliser Python pour analyser, visualiser et interpréter des données. Les étudiants seront initiés aux bibliothèques populaires telles que Pandas, NumPy et Matplotlib. À la fin de ce cours, les étudiants seront capables de travailler avec des données et de créer des visualisations de données de base.",
+  "niveau": "débutant",
+  "domaine": "Programmation",
+  "duree_estimee": "20 heures",
+  "objectifs": [
+    "Comprendre les bases de la programmation Python",
+    "Apprendre à utiliser les bibliothèques Pandas, NumPy et Matplotlib",
+    "Savoir importer et manipuler des données",
+    "Créer des visualisations de données de base",
+    "Appliquer les principes de la Data Science à des problèmes réels"
+  ],
+  "chapitres": [
+    {
+      "numero": 1,
+      "titre": "Introduction à Python et à la Data Science",
+      "contenu": "Python est un langage de programmation de haut niveau qui est devenu très populaire dans le domaine de la Data Science. Il est facile à apprendre et à utiliser, même pour les débutants. La Data Science est un domaine qui combine des techniques d'analyse de données, d'apprentissage automatique et de visualisation pour extraire des informations précieuses à partir de données. Python est un outil idéal pour la Data Science car il propose une grande variété de bibliothèques et de frameworks qui facilitent les tâches de traitement de données, tels que NumPy, pandas et scikit-learn. La Data Science est utilisée dans de nombreux domaines, tels que la finance, la santé, le marketing et la recherche scientifique. Les données sont partout et la capacité à les analyser et à les interpréter est devenue une compétence essentielle pour les professionnels de nombreux secteurs. Python est également un langage de programmation polyvalent qui peut être utilisé pour développer des applications web, des jeux, des outils de productivité et bien plus encore. L'apprentissage de Python et de la Data Science peut ouvrir de nombreuses portes et offrir des opportunités de carrière passionnantes. Les débutants peuvent commencer par apprendre les bases de Python, puis progresser vers des sujets plus avancés tels que l'apprentissage automatique et la visualisation de données. Il est important de pratiquer régulièrement et de travailler sur des projets personnels pour améliorer ses compétences.",
+      "points_cles": [
+        "Python est un langage de programmation de haut niveau",
+        "La Data Science combine des techniques d'analyse de données, d'apprentissage automatique et de visualisation",
+        "Python propose une grande variété de bibliothèques et de frameworks pour la Data Science",
+        "La Data Science est utilisée dans de nombreux domaines",
+        "L'apprentissage de Python et de la Data Science peut ouvrir de nombreuses portes et offrir des opportunités de carrière passionnantes"
+      ],
+      "exemple_concret": "Un exemple concret de l'utilisation de Python et de la Data Science est l'analyse de données de ventes pour une entreprise de commerce électronique. Les données de ventes peuvent être analysées pour identifier les tendances et les modèles, puis utilisées pour améliorer la stratégie de marketing et de vente de l'entreprise.",
+      "anecdote": "L'anecdote de l'entreprise de commerce électronique qui a utilisé Python et la Data Science pour améliorer ses ventes est un exemple intéressant. L'entreprise a collecté des données sur les habitudes d'achat de ses clients, puis a utilisé des algorithmes d'apprentissage automatique pour identifier les clients les plus susceptibles de faire des achats répétés. En ciblant ces clients avec des offres personnalisées, l'entreprise a pu augmenter ses ventes de 20% en seulement quelques mois.",
+      "quiz": [
+        {
+          "question": "Quel est le principal avantage de l'utilisation de Python pour la Data Science ?",
+          "options": [
+            "Python est un langage de programmation rapide",
+            "Python propose une grande variété de bibliothèques et de frameworks pour la Data Science",
+            "Python est un langage de programmation difficile à apprendre",
+            "Python n'est pas adapté pour la Data Science"
+          ],
+          "bonne_reponse": "Python propose une grande variété de bibliothèques et de frameworks pour la Data Science",
+          "explication": "Python propose une grande variété de bibliothèques et de frameworks qui facilitent les tâches de traitement de données, tels que NumPy, pandas et scikit-learn. Cela rend Python un outil idéal pour la Data Science."
+        },
+        {
+          "question": "Quel est le domaine d'application de la Data Science ?",
+          "options": [
+            "La finance",
+            "La santé",
+            "Le marketing",
+            "Tous les domaines ci-dessus"
+          ],
+          "bonne_reponse": "Tous les domaines ci-dessus",
+          "explication": "La Data Science est utilisée dans de nombreux domaines, tels que la finance, la santé, le marketing et la recherche scientifique. Les données sont partout et la capacité à les analyser et à les interpréter est devenue une compétence essentielle pour les professionnels de nombreux secteurs."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Écrivez un programme Python pour afficher les 10 premiers nombres de la suite de Fibonacci.",
+        "instructions": [
+          "Importer la bibliothèque nécessaire",
+          "Définir une fonction pour calculer les nombres de la suite de Fibonacci",
+          "Appeler la fonction pour afficher les 10 premiers nombres de la suite",
+          "Exécuter le programme pour vérifier les résultats"
+        ],
+        "livrable": "Un programme Python qui affiche les 10 premiers nombres de la suite de Fibonacci",
+        "conseil": "N'oubliez pas de tester votre programme pour vous assurer qu'il fonctionne correctement. Vous pouvez également utiliser des outils de débogage pour identifier les erreurs éventuelles."
+      }
+    },
+    {
+      "numero": 2,
+      "titre": "Bases de la programmation Python pour la Data Science",
+      "contenu": "La programmation Python est un élément essentiel pour la Data Science, car elle offre une grande flexibilité et une communauté active qui contribue à son développement. Python est utilisé pour diverses tâches, telles que l'analyse de données, la visualisation, le machine learning et bien plus encore. Les bases de la programmation Python incluent la compréhension des variables, des types de données, des structures de contrôle, des fonctions et des modules. Les variables en Python sont utilisées pour stocker des valeurs, qui peuvent être des nombres, des chaînes de caractères, des listes, des tuples, etc. Les types de données définissent la nature des valeurs stockées dans les variables. Les structures de contrôle, telles que les conditions et les boucles, permettent de contrôler le flux d'exécution du programme. Les fonctions sont des blocs de code réutilisables qui effectuent des tâches spécifiques. Les modules sont des fichiers qui contiennent des fonctions et des classes prédéfinies qui peuvent être importées dans un programme. La Data Science implique souvent la manipulation et l'analyse de grandes quantités de données, ce qui peut être réalisé en utilisant des bibliothèques Python telles que Pandas et NumPy. La visualisation des données est également cruciale pour la Data Science, et des bibliothèques comme Matplotlib et Seaborn sont très populaires pour cela. Le machine learning est un autre aspect important de la Data Science, et Python offre des bibliothèques comme Scikit-learn pour faciliter les tâches de machine learning.",
+      "points_cles": [
+        "Compréhension des variables et des types de données",
+        "Utilisation des structures de contrôle",
+        "Définition et utilisation de fonctions",
+        "Importation et utilisation de modules"
+      ],
+      "exemple_concret": "Un exemple concret de l'utilisation de Python pour la Data Science est l'analyse des ventes d'un magasin en ligne. Les données de vente peuvent être stockées dans un fichier CSV et importées dans un programme Python à l'aide de la bibliothèque Pandas. Les données peuvent ensuite être nettoyées, transformées et analysées pour identifier les tendances et les modèles. Les résultats peuvent être visualisés à l'aide de la bibliothèque Matplotlib pour aider à la prise de décision.",
+      "anecdote": "Une anecdote intéressante est que la bibliothèque Pandas a été créée par Wes McKinney en 2008, qui travaillait à l'époque pour la société AQR Capital Management. Il a créé Pandas pour répondre à ses propres besoins en matière d'analyse de données et a finalement décidé de la rendre open source pour que d'autres puissent en bénéficier.",
+      "quiz": [
+        {
+          "question": "Quel est le type de données le plus approprié pour stocker une liste de nombres en Python ?",
+          "options": [
+            "Liste",
+            "Tuple",
+            "Dictionnaire",
+            "Set"
+          ],
+          "bonne_reponse": "Liste",
+          "explication": "Une liste est le type de données le plus approprié pour stocker une liste de nombres en Python, car elle peut contenir plusieurs valeurs et permettre des opérations telles que l'ajout et la suppression d'éléments."
+        },
+        {
+          "question": "Quelle est la fonction principale de la bibliothèque Pandas en Python ?",
+          "options": [
+            "Visualisation de données",
+            "Machine learning",
+            "Analyse de données",
+            "Gestion de bases de données"
+          ],
+          "bonne_reponse": "Analyse de données",
+          "explication": "La fonction principale de la bibliothèque Pandas est de faciliter l'analyse de données en offrant des structures de données et des outils pour nettoyer, transformer et analyser les données."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un programme Python qui lit un fichier CSV contenant des données de vente et affiche les 5 premières lignes de données.",
+        "instructions": [
+          "Importez la bibliothèque Pandas",
+          "Lisez le fichier CSV à l'aide de la fonction read_csv",
+          "Affichez les 5 premières lignes de données à l'aide de la fonction head",
+          "Utilisez la fonction print pour afficher les résultats"
+        ],
+        "livrable": "Un programme Python fonctionnel qui lit un fichier CSV et affiche les 5 premières lignes de données",
+        "conseil": "Assurez-vous d'installer la bibliothèque Pandas avant de commencer l'exercice et de remplacer le nom du fichier CSV par le vôtre."
+      }
+    },
+    {
+      "numero": 3,
+      "titre": "Manipulation de données avec Pandas et NumPy",
+      "contenu": "La manipulation de données est une étape cruciale dans l'analyse de données. Les bibliothèques Pandas et NumPy sont deux outils puissants pour manipuler et analyser des données en Python. Pandas est spécialisé dans la manipulation de données structurées, telles que les tableaux et les séries temporelles, tandis que NumPy est optimisé pour les calculs sur les tableaux numériques. Pour commencer, il est essentiel de comprendre les concepts de base tels que les séries, les DataFrames et les tableaux NumPy. Les séries sont des structures de données unidimensionnelles qui peuvent contenir des données de types différents, tandis que les DataFrames sont des structures de données bidimensionnelles qui ressemblent à des tableaux. Les tableaux NumPy sont des structures de données multidimensionnelles qui permettent des calculs rapides et efficaces. La manipulation de données avec Pandas et NumPy implique souvent des opérations telles que la sélection de données, le regroupement, le tri, la fusion et la jointure de données. Il est également important de savoir gérer les données manquantes et de nettoyer les données pour garantir leur qualité. Les bibliothèques Pandas et NumPy offrent une grande flexibilité et des fonctionnalités avancées pour la manipulation de données, ce qui les rend essentielles pour les scientifiques de données et les analystes. Les données peuvent être chargées à partir de diverses sources, telles que les fichiers CSV, Excel ou SQL, et peuvent être sauvegardées dans différents formats. La visualisation des données est également une étape importante pour comprendre les données et prendre des décisions éclairées. Les bibliothèques Matplotlib et Seaborn sont souvent utilisées en combinaison avec Pandas et NumPy pour créer des visualisations de données attrayantes et informatives.",
+      "points_cles": [
+        "Comprendre les concepts de base de Pandas et NumPy",
+        "Savoir manipuler les séries, les DataFrames et les tableaux NumPy",
+        "Maîtriser les opérations de sélection, de regroupement, de tri, de fusion et de jointure de données",
+        "Apprendre à gérer les données manquantes et à nettoyer les données"
+      ],
+      "exemple_concret": "Supposons que nous ayons un fichier CSV contenant les données de ventes d'une entreprise, avec des colonnes pour la date, le produit, la quantité vendue et le montant total. Nous pouvons utiliser Pandas pour charger les données, sélectionner les données pour un produit spécifique, regrouper les données par mois et calculer le montant total des ventes pour chaque mois. Ensuite, nous pouvons utiliser Matplotlib pour créer un graphique à barres pour visualiser les ventes mensuelles.",
+      "anecdote": "Un scientifique de données a utilisé Pandas et NumPy pour analyser les données de ventes d'une entreprise de vêtements. Il a découvert que les ventes de vêtements pour femmes étaient plus élevées que celles pour hommes, mais que les ventes de vêtements pour hommes étaient plus rentables. Cette découverte a permis à l'entreprise de ajuster sa stratégie marketing et d'augmenter ses ventes.",
+      "quiz": [
+        {
+          "question": "Quelle est la principale différence entre les séries et les DataFrames de Pandas ?",
+          "options": [
+            "Les séries sont unidimensionnelles, tandis que les DataFrames sont bidimensionnels",
+            "Les séries sont bidimensionnelles, tandis que les DataFrames sont unidimensionnels",
+            "Les séries sont utilisées pour les données numériques, tandis que les DataFrames sont utilisés pour les données non numériques",
+            "Les séries sont utilisées pour les données non numériques, tandis que les DataFrames sont utilisés pour les données numériques"
+          ],
+          "bonne_reponse": "Les séries sont unidimensionnelles, tandis que les DataFrames sont bidimensionnels",
+          "explication": "Les séries de Pandas sont des structures de données unidimensionnelles qui peuvent contenir des données de types différents, tandis que les DataFrames sont des structures de données bidimensionnelles qui ressemblent à des tableaux."
+        },
+        {
+          "question": "Quelle est la fonction principale de la bibliothèque NumPy ?",
+          "options": [
+            "La manipulation de données structurées",
+            "La visualisation de données",
+            "Les calculs sur les tableaux numériques",
+            "La gestion de données manquantes"
+          ],
+          "bonne_reponse": "Les calculs sur les tableaux numériques",
+          "explication": "La bibliothèque NumPy est optimisée pour les calculs sur les tableaux numériques, ce qui la rend très efficace pour les calculs scientifiques et les analyses de données."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Chargez un fichier CSV contenant les données de ventes d'une entreprise et utilisez Pandas pour sélectionner les données pour un produit spécifique, regrouper les données par mois et calculer le montant total des ventes pour chaque mois.",
+        "instructions": [
+          "Chargez le fichier CSV à l'aide de la fonction read_csv de Pandas",
+          "Sélectionnez les données pour le produit spécifique à l'aide de la fonction loc de Pandas",
+          "Regroupez les données par mois à l'aide de la fonction groupby de Pandas",
+          "Calculez le montant total des ventes pour chaque mois à l'aide de la fonction sum de Pandas"
+        ],
+        "livrable": "Un graphique à barres montrant les ventes mensuelles pour le produit spécifique",
+        "conseil": "Assurez-vous de nettoyer les données avant de les analyser et de visualiser les résultats pour garantir leur exactitude."
+      }
+    },
+    {
+      "numero": 4,
+      "titre": "Visualisation de données avec Matplotlib et Seaborn",
+      "contenu": "La visualisation de données est une étape cruciale dans l'analyse de données. Matplotlib et Seaborn sont deux bibliothèques populaires en Python pour créer des visualisations de données. Matplotlib est une bibliothèque complète qui permet de créer une large gamme de graphiques, de courbes et de diagrammes. Seaborn, quant à elle, est basée sur Matplotlib et propose des fonctionnalités supplémentaires pour créer des visualisations de données plus attrayantes et plus faciles à comprendre. Les visualisations de données peuvent prendre de nombreuses formes, allant des graphiques simples comme les histogrammes et les diagrammes à secteurs, aux visualisations plus complexes comme les cartes de chaleur et les diagrammes de dispersion. La visualisation de données permet de mieux comprendre les tendances, les relations et les modèles dans les données. Elle aide également à identifier les erreurs et les anomalies dans les données. Pour commencer à utiliser Matplotlib et Seaborn, il est important de comprendre les bases de la programmation Python et de la manipulation de données. Les données doivent être nettoyées et préparées avant d'être visualisées. Les visualisations doivent être claires, concises et faciles à comprendre pour les non-spécialistes. La personnalisation des visualisations est également importante pour communiquer efficacement les résultats de l'analyse de données. Les bibliothèques Matplotlib et Seaborn offrent de nombreuses options pour personnaliser les visualisations, telles que la couleur, la taille des polices, les titres et les légendes.",
+      "points_cles": [
+        "Matplotlib est une bibliothèque complète pour la visualisation de données",
+        "Seaborn propose des fonctionnalités supplémentaires pour des visualisations plus attrayantes",
+        "Les visualisations de données permettent de mieux comprendre les tendances et les relations",
+        "La personnalisation des visualisations est importante pour communiquer efficacement"
+      ],
+      "exemple_concret": "Par exemple, pour visualiser les ventes d'un produit en fonction du mois, on peut utiliser un graphique à barres avec Matplotlib. On peut également utiliser Seaborn pour créer un diagramme de dispersion pour montrer la relation entre les ventes et le prix du produit.",
+      "anecdote": "Lors d'une conférence, un data scientist a présenté une visualisation de données qui montrait clairement la corrélation entre le niveau de pollution de l'air et le taux de maladies respiratoires dans une ville. Cette visualisation a convaincu les décideurs de prendre des mesures pour réduire la pollution de l'air.",
+      "quiz": [
+        {
+          "question": "Quelle est la principale différence entre Matplotlib et Seaborn ?",
+          "options": [
+            "Matplotlib est utilisé pour les visualisations 3D, tandis que Seaborn est utilisé pour les visualisations 2D",
+            "Matplotlib est utilisé pour les visualisations simples, tandis que Seaborn est utilisé pour les visualisations complexes",
+            "Matplotlib est une bibliothèque complète, tandis que Seaborn propose des fonctionnalités supplémentaires",
+            "Matplotlib est utilisé pour les données numériques, tandis que Seaborn est utilisé pour les données catégorielles"
+          ],
+          "bonne_reponse": "Matplotlib est une bibliothèque complète, tandis que Seaborn propose des fonctionnalités supplémentaires",
+          "explication": "Matplotlib est une bibliothèque complète qui permet de créer une large gamme de graphiques, tandis que Seaborn propose des fonctionnalités supplémentaires pour créer des visualisations de données plus attrayantes et plus faciles à comprendre."
+        },
+        {
+          "question": "Quel est l'avantage principal de la visualisation de données ?",
+          "options": [
+            "Elle permet de réduire la quantité de données",
+            "Elle permet de mieux comprendre les tendances et les relations",
+            "Elle permet de créer des modèles prédictifs",
+            "Elle permet de prendre des décisions plus rapides"
+          ],
+          "bonne_reponse": "Elle permet de mieux comprendre les tendances et les relations",
+          "explication": "La visualisation de données permet de mieux comprendre les tendances, les relations et les modèles dans les données, ce qui est essentiel pour prendre des décisions éclairées."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un graphique à barres pour montrer les ventes d'un produit en fonction du mois. Utilisez Matplotlib pour créer le graphique et personnalisez-le pour qu'il soit plus attractif.",
+        "instructions": [
+          "Importez les bibliothèques nécessaires, notamment Matplotlib et Pandas",
+          "Chargez les données de ventes et créez un dataframe Pandas",
+          "Utilisez la fonction bar() de Matplotlib pour créer le graphique à barres",
+          "Personnalisez le graphique en ajoutant un titre, des étiquettes d'axes et des couleurs",
+          "Sauvegardez le graphique sous forme d'image"
+        ],
+        "livrable": "Un graphique à barres qui montre les ventes d'un produit en fonction du mois, avec un titre, des étiquettes d'axes et des couleurs personnalisés",
+        "conseil": "Assurez-vous de bien nettoyer et de préparer les données avant de les visualiser. Utilisez les options de personnalisation de Matplotlib pour rendre le graphique plus attractif et plus facile à comprendre."
+      }
+    },
+    {
+      "numero": 5,
+      "titre": "Projet pratique : Analyse et visualisation de données réelles",
+      "contenu": "Dans ce chapitre, nous allons explorer les étapes clés pour analyser et visualiser des données réelles. Tout d'abord, il est essentiel de comprendre la source et la qualité des données. Les données peuvent provenir de diverses sources telles que des bases de données, des fichiers CSV ou même des API. Il est crucial de nettoyer et de préparer les données avant de les analyser. Cela implique de gérer les valeurs manquantes, de supprimer les doublons et de normaliser les formats de données. Une fois les données préparées, nous pouvons commencer à les analyser en utilisant des méthodes statistiques et des visualisations de données. Les visualisations de données, telles que les graphiques à barres, les diagrammes circulaires et les cartes, aident à communiquer les résultats de l'analyse de manière claire et concise. Il est également important de choisir le type de visualisation approprié en fonction du type de données et de l'objectif de l'analyse. Enfin, la présentation des résultats doit être claire, concise et accompagnée d'une interprétation des résultats. Cela permet aux décideurs de prendre des décisions éclairées basées sur les données. L'analyse et la visualisation de données sont des compétences essentielles dans de nombreux domaines, notamment les affaires, la santé et les sciences. En résumé, l'analyse et la visualisation de données sont des processus complexes qui nécessitent une compréhension approfondie des données, des outils d'analyse et des méthodes de visualisation. Avec la pratique et l'expérience, les apprenants peuvent développer ces compétences et devenir des professionnels de l'analyse de données. L'analyse de données est un domaine en constante évolution, avec de nouvelles méthodes et outils qui émergent régulièrement. Il est donc important de rester à jour avec les dernières tendances et technologies pour rester compétitif dans ce domaine.",
+      "points_cles": [
+        "Comprendre la source et la qualité des données",
+        "Nettoyer et préparer les données",
+        "Utiliser des méthodes statistiques pour analyser les données",
+        "Choisir le type de visualisation approprié"
+      ],
+      "exemple_concret": "Un exemple concret d'analyse et de visualisation de données est l'analyse des ventes d'un magasin en ligne. Les données peuvent inclure le montant des ventes, la date de la vente, le produit vendu et l'emplacement du client. En analysant ces données, nous pouvons identifier les tendances des ventes, les produits les plus populaires et les emplacements avec les ventes les plus élevées. Nous pouvons ensuite utiliser des visualisations de données telles que des graphiques à barres ou des cartes pour présenter les résultats de manière claire et concise.",
+      "anecdote": "Un exemple intéressant d'analyse de données est l'histoire de la compagnie aérienne Southwest Airlines, qui a utilisé l'analyse de données pour améliorer son service client. En analysant les données sur les retards de vols, les compagnies aériennes ont pu identifier les causes principales des retards et prendre des mesures pour les résoudre. Grâce à cela, la compagnie aérienne a pu améliorer son service client et augmenter sa satisfaction client.",
+      "quiz": [
+        {
+          "question": "Quelle est l'étape la plus importante de l'analyse de données ?",
+          "options": [
+            "La collecte des données",
+            "La visualisation des données",
+            "La préparation des données",
+            "L'interprétation des résultats"
+          ],
+          "bonne_reponse": "La préparation des données",
+          "explication": "La préparation des données est l'étape la plus importante de l'analyse de données, car elle permet de nettoyer et de préparer les données pour l'analyse. Si les données ne sont pas préparées correctement, les résultats de l'analyse peuvent être incorrects ou trompeurs."
+        },
+        {
+          "question": "Quel type de visualisation de données est le plus approprié pour présenter les résultats d'une analyse de ventes ?",
+          "options": [
+            "Un graphique à barres",
+            "Un diagramme circulaire",
+            "Une carte",
+            "Un graphique en ligne"
+          ],
+          "bonne_reponse": "Un graphique à barres",
+          "explication": "Un graphique à barres est le type de visualisation de données le plus approprié pour présenter les résultats d'une analyse de ventes, car il permet de comparer les ventes de différents produits ou périodes de temps de manière claire et concise."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Analyser les données de ventes d'un magasin en ligne et présenter les résultats sous forme de visualisations de données.",
+        "instructions": [
+          "Collecter les données de ventes",
+          "Préparer les données en nettoyant et en normalisant les formats",
+          "Utiliser des méthodes statistiques pour analyser les données",
+          "Créer des visualisations de données pour présenter les résultats"
+        ],
+        "livrable": "Un rapport d'analyse de données avec des visualisations de données",
+        "conseil": "Assurez-vous de préparer correctement les données avant de les analyser et de choisir le type de visualisation approprié pour présenter les résultats."
+      }
+    }
+  ],
+  "projet_final": {
+    "titre": "Analyse de données de ventes pour une entreprise de commerce électronique",
+    "description": "Dans ce projet, les apprenants devront appliquer les compétences acquises en Python pour la Data Science pour analyser un jeu de données de ventes d'une entreprise de commerce électronique. Ils devront nettoyer, transformer et visualiser les données pour identifier les tendances et les corrélations. Le but est de fournir des insights pour améliorer les stratégies de vente de l'entreprise. Les apprenants devront travailler de manière autonome pour collecter les données, les analyser et présenter leurs résultats. Ce projet leur permettra de démontrer leur capacité à appliquer les concepts de Data Science à un problème réel.",
+    "etapes": [
+      "Collecte et nettoyage des données",
+      "Analyse exploratoire des données",
+      "Modélisation et prévision",
+      "Visualisation des résultats",
+      "Présentation des conclusions"
+    ],
+    "criteres_evaluation": [
+      "Qualité de l'analyse des données",
+      "Pertinence des visualisations",
+      "Clarté et cohérence de la présentation",
+      "Impact potentiel des recommandations sur l'entreprise"
+    ],
+    "livrable_final": "Un rapport écrit de 5 pages maximum, comprenant les résultats de l'analyse, les visualisations et les recommandations, ainsi qu'une présentation orale de 10 minutes"
+  },
+  "examen_oral": {
+    "questions": [
+      "Qu'est-ce que la Data Science et comment l'appliquez-vous dans votre projet ?",
+      "Comment avez-vous nettoyé et transformé les données pour votre analyse ?",
+      "Quelles sont les principales tendances et corrélations que vous avez identifiées dans les données ?",
+      "Comment vos résultats pourraient-ils être utilisés pour améliorer les stratégies de vente de l'entreprise ?",
+      "Quelles sont les limites de votre analyse et comment pourriez-vous les surmonter dans le futur ?"
+    ],
+    "criteres_evaluation": [
+      "Clarté et précision des réponses",
+      "Exemples concrets et pertinents",
+      "Originalité et créativité dans la résolution de problèmes",
+      "Capacité à défendre les choix méthodologiques et les conclusions"
+    ]
+  },
+  "ressources": [
+    {
+      "titre": "Python Data Science Handbook",
+      "type": "livre",
+      "description": "Un guide complet pour la Data Science en Python, couvrant les bibliothèques et les techniques les plus utilisées."
+    },
+    {
+      "titre": "Data Analysis with Python",
+      "type": "video",
+      "description": "Un cours en ligne qui couvre les bases de l'analyse de données avec Python, y compris le nettoyage, la transformation et la visualisation des données."
+    },
+    {
+      "titre": "Kaggle",
+      "type": "site web",
+      "description": "Une plateforme de compétitions de Data Science qui propose des jeux de données et des défis pour améliorer les compétences en analyse de données et en machine learning."
+    }
+  ]
+}
