@@ -158,7 +158,7 @@ def gerer_cours(chemin_cours: str) -> dict:
     # Étape 3 : Valider
     validation = valider_cours(cours)
     print(f"Score final      : {validation['score_final']}/100")
-    print(f"Badge qualité    : {validation['badge_qualite']}")
+    print(f"Badge qualité    : {validation.get('badge_qualite', 'N/A')}")
     print(f"Certification    : {validation['certification_novi']}")
 
     # Assemblage final
@@ -167,7 +167,7 @@ def gerer_cours(chemin_cours: str) -> dict:
         "qualite": {
             "score_initial": analyse["score_global"],
             "score_final": validation["score_final"],
-            "badge": validation["badge_qualite"],
+            "badge": validation.get("badge_qualite", "Bien"),
             "certification_novi": validation["certification_novi"],
             "points_forts": validation["points_forts_finaux"],
             "commentaire": validation["commentaire_final"]
