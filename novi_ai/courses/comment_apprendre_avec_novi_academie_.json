@@ -1,0 +1,313 @@
+{
+  "titre": "Découvrir Novi Académie : Un Guide pour les Débutants",
+  "description": "Bienvenue dans ce cours conçu pour vous aider à démarrer votre aventure d'apprentissage avec Novi Académie. Vous découvrirez comment naviguer sur la plateforme, comment créer un compte, et comment choisir les cours qui vous conviennent le mieux. Vous apprendrez également à gérer votre temps et vos ressources pour maximiser votre expérience d'apprentissage. Ce cours est parfait pour les débutants qui souhaitent exploiter pleinement les possibilités offertes par Novi Académie.",
+  "niveau": "débutant",
+  "domaine": "IA",
+  "duree_estimee": "4 heures",
+  "objectifs": [
+    "Comprendre les fonctionnalités de base de Novi Académie",
+    "Apprendre à créer et gérer un compte utilisateur",
+    "Découvrir comment naviguer et rechercher des cours",
+    "Comprendre comment suivre et gérer les progrès dans les cours",
+    "Apprendre à utiliser les ressources et les outils pédagogiques de Novi Académie"
+  ],
+  "chapitres": [
+    {
+      "numero": 1,
+      "titre": "Introduction à Novi Académie : Présentation et Fonctionnalités",
+      "contenu": "Novi Académie est une plateforme d'apprentissage en ligne conçue pour offrir une expérience éducative complète et personnalisée. Elle est destinée à aider les apprenants à développer leurs compétences et leurs connaissances dans différents domaines. Novi Académie propose une gamme de cours et de ressources pédagogiques, allant des cours en ligne interactifs aux exercices pratiques et aux projets de groupe. La plateforme est conçue pour être accessible et conviviale, permettant aux apprenants de travailler à leur propre rythme et de suivre leurs progrès. Les fonctionnalités de Novi Académie incluent la possibilité de créer des comptes personnels, de suivre des cours, de participer à des discussions en ligne, de réaliser des exercices et des projets, et de recevoir des feedbacks et des évaluations. La plateforme est également conçue pour être flexible et adaptable, permettant aux apprenants de choisir leurs propres parcours d'apprentissage et de personnaliser leur expérience éducative. De plus, Novi Académie met à disposition des ressources supplémentaires, telles que des vidéos, des podcasts, des livres électroniques et des liens vers des sites web éducatifs. L'objectif principal de Novi Académie est de fournir une éducation de haute qualité et accessible à tous, indépendamment de la localisation géographique ou des moyens financiers. En résumé, Novi Académie est une plateforme d'apprentissage en ligne complète et innovante qui vise à améliorer l'expérience éducative des apprenants et à les aider à atteindre leurs objectifs.",
+      "points_cles": [
+        "Plateforme d'apprentissage en ligne",
+        "Cours et ressources pédagogiques interactifs",
+        "Exercices pratiques et projets de groupe",
+        "Comptes personnels et suivi des progrès",
+        "Discussions en ligne et feedbacks"
+      ],
+      "exemple_concret": "Par exemple, un apprenant qui souhaite améliorer ses compétences en français peut suivre un cours en ligne sur Novi Académie, réaliser des exercices de grammaire et de vocabulaire, et participer à des discussions en ligne avec d'autres apprenants pour pratiquer sa conversation.",
+      "anecdote": "Un apprenant qui a utilisé Novi Académie pour améliorer ses compétences en programmation a réussi à créer son propre jeu vidéo en quelques semaines, grâce aux ressources et aux conseils fournis par la plateforme.",
+      "quiz": [
+        {
+          "question": "Quel est l'objectif principal de Novi Académie ?",
+          "options": [
+            "Fournir une éducation de haute qualité et accessible à tous",
+            "Proposer des cours en ligne interactifs",
+            "Créer des communautés d'apprenants en ligne",
+            "Développer des compétences professionnelles"
+          ],
+          "bonne_reponse": "A",
+          "explication": "L'objectif principal de Novi Académie est de fournir une éducation de haute qualité et accessible à tous, indépendamment de la localisation géographique ou des moyens financiers."
+        },
+        {
+          "question": "Quelles sont les fonctionnalités de Novi Académie ?",
+          "options": [
+            "Cours en ligne interactifs",
+            "Exercices pratiques et projets de groupe",
+            "Comptes personnels et suivi des progrès",
+            "Tout ce qui précède"
+          ],
+          "bonne_reponse": "D",
+          "explication": "Les fonctionnalités de Novi Académie incluent les cours en ligne interactifs, les exercices pratiques et les projets de groupe, ainsi que les comptes personnels et le suivi des progrès."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un compte personnel sur Novi Académie et explorez les ressources et les fonctionnalités de la plateforme.",
+        "instructions": [
+          "Allez sur le site web de Novi Académie et cliquez sur le bouton 'Inscription'",
+          "Remplissez les champs obligatoires pour créer votre compte personnel",
+          "Explorez les différentes sections de la plateforme, telles que les cours en ligne, les exercices pratiques et les discussions en ligne",
+          "Réaliserez un exercice ou un projet pour tester vos compétences et vos connaissances"
+        ],
+        "livrable": "Un compte personnel créé et une exploration complète de la plateforme",
+        "conseil": "Prenez le temps de lire les instructions et les consignes pour chaque exercice et projet, et n'hésitez pas à demander de l'aide si vous avez des questions ou des difficultés."
+      }
+    },
+    {
+      "numero": 2,
+      "titre": "Création d'un Compte et Premiers Pas sur la Plateforme",
+      "contenu": "Pour commencer votre aventure sur la plateforme NOVI Académie, il est essentiel de créer un compte. Cette étape vous permettra d'accéder à tous les contenus éducatifs proposés et de suivre vos progrès. La création d'un compte est une démarche simple qui nécessite quelques informations de base comme votre nom, prénom, adresse e-mail et un mot de passe sécurisé. Il est important de choisir un mot de passe fort et unique pour protéger votre compte. Une fois votre compte créé, vous recevrez un e-mail de confirmation pour valider votre adresse e-mail. Après validation, vous pourrez vous connecter à votre compte et commencer à explorer la plateforme. Vous aurez accès à une variété de cours, de vidéos éducatives, de quizzes et d'exercices pratiques conçus pour améliorer vos compétences. Il est recommandé de prendre le temps de découvrir les différentes sections de la plateforme pour vous familiariser avec son fonctionnement. La navigation est intuitive, et vous trouverez facilement les ressources qui vous intéressent. N'hésitez pas à consulter les ressources d'aide si vous rencontrez des difficultés lors de votre navigation. La plateforme est conçue pour être accessible et conviviale, même pour les utilisateurs débutants. En suivant les étapes proposées et en explorant les contenus, vous vous sentirez rapidement à l'aise pour utiliser la plateforme à votre avantage.",
+      "points_cles": [
+        "Créer un compte avec des informations précises",
+        "Choisir un mot de passe sécurisé",
+        "Valider votre adresse e-mail après inscription",
+        "Explorer les différentes sections de la plateforme pour vous familiariser avec son fonctionnement"
+      ],
+      "exemple_concret": "Par exemple, pour créer un compte, vous cliquez sur le bouton 'Inscription' sur la page d'accueil de la plateforme, remplissez le formulaire avec vos informations personnelles, choisissez un mot de passe, et cliquez sur 'Créer mon compte'. Vous recevrez ensuite un e-mail de confirmation pour valider votre inscription.",
+      "anecdote": "Un utilisateur débutant a partagé son expérience positive après avoir créé son compte sur la plateforme. Il a mentionné que la procédure était simple et rapide, et qu'il a pu commencer à apprendre de nouvelles compétences en très peu de temps. Cela montre que même les utilisateurs les moins familiers avec les technologies peuvent facilement créer un compte et commencer leur apprentissage.",
+      "quiz": [
+        {
+          "question": "Quelle est la première étape pour accéder aux contenus de la plateforme NOVI Académie ?",
+          "options": [
+            "Créer un compte",
+            "Télécharger une application",
+            "Acheter un manuel",
+            "S'inscrire à un cours en personne"
+          ],
+          "bonne_reponse": "Créer un compte",
+          "explication": "La création d'un compte est la première étape pour accéder aux contenus éducatifs proposés par la plateforme."
+        },
+        {
+          "question": "Pourquoi est-il important de valider votre adresse e-mail après l'inscription ?",
+          "options": [
+            "Pour recevoir des newsletters",
+            "Pour accéder à des contenus premium",
+            "Pour valider votre compte et permettre la connexion",
+            "Pour participer à des concours"
+          ],
+          "bonne_reponse": "Pour valider votre compte et permettre la connexion",
+          "explication": "La validation de votre adresse e-mail est nécessaire pour confirmer que vous êtes bien le propriétaire du compte et pour permettre la connexion sécurisée à la plateforme."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un compte sur la plateforme NOVI Académie et explorez les différentes sections pour vous familiariser avec son fonctionnement.",
+        "instructions": [
+          "Allez sur la page d'accueil de la plateforme et cliquez sur 'Inscription'.",
+          "Remplissez le formulaire d'inscription avec vos informations personnelles.",
+          "Choisissez un mot de passe sécurisé et confirmez-le.",
+          "Cliquez sur 'Créer mon compte' et attendez l'e-mail de confirmation."
+        ],
+        "livrable": "Un compte créé et validé sur la plateforme avec une exploration réussie de ses différentes sections.",
+        "conseil": "Prenez votre temps pour explorer les sections de la plateforme et n'hésitez pas à consulter les ressources d'aide si vous rencontrez des difficultés."
+      }
+    },
+    {
+      "numero": 3,
+      "titre": "Recherche et Sélection de Cours : Comment Trouver ce que Vous Cherchez",
+      "contenu": "Lorsque vous débutez dans une formation en ligne, il est essentiel de savoir comment trouver les cours qui correspondent à vos objectifs et à vos besoins. La première étape consiste à définir clairement vos objectifs d'apprentissage. Qu'est-ce que vous souhaitez apprendre ? Quels sont vos centres d'intérêt ? Une fois que vous avez une idée claire de ce que vous cherchez, vous pouvez commencer à rechercher des cours en ligne. Il existe de nombreuses plateformes d'apprentissage en ligne qui proposent une grande variété de cours, allant de la programmation à la photographie. Vous pouvez utiliser les mots-clés pour rechercher des cours spécifiques ou explorer les catégories pour découvrir de nouveaux sujets. Lorsque vous trouvez un cours qui vous intéresse, lisez attentivement la description et les avis des autres apprenants pour vous assurer qu'il correspond à vos besoins. Il est également important de vérifier les prérequis et le niveau de difficulté du cours pour vous assurer que vous êtes prêt à suivre. Enfin, n'oubliez pas de consulter les conditions d'inscription et les coûts associés au cours. En suivant ces étapes, vous pourrez trouver le cours parfait pour vous et commencer à apprendre de manière efficace.",
+      "points_cles": [
+        "Définir vos objectifs d'apprentissage",
+        "Rechercher des cours en ligne",
+        "Lire les descriptions et les avis",
+        "Vérifier les prérequis et le niveau de difficulté"
+      ],
+      "exemple_concret": "Par exemple, si vous souhaitez apprendre la programmation en Python, vous pouvez rechercher des cours en ligne qui utilisent des mots-clés tels que 'Python pour débutants' ou 'Apprendre la programmation en Python'. Vous pouvez également explorer les catégories de programmation sur des plateformes d'apprentissage en ligne telles que Coursera ou Udemy.",
+      "anecdote": "J'ai une amie qui voulait apprendre la photographie, mais elle ne savait pas par où commencer. Elle a recherché des cours en ligne et a trouvé un cours de photographie pour débutants qui lui a permis de découvrir les bases de la photographie et de prendre de meilleures photos. Aujourd'hui, elle est devenue une photographe passionnée et a même vendu quelques-unes de ses photos en ligne.",
+      "quiz": [
+        {
+          "question": "Quelle est la première étape pour trouver un cours en ligne ?",
+          "options": [
+            "Rechercher des cours en ligne",
+            "Lire les descriptions et les avis",
+            "Vérifier les prérequis et le niveau de difficulté",
+            "Définir vos objectifs d'apprentissage"
+          ],
+          "bonne_reponse": "D",
+          "explication": "La première étape consiste à définir clairement vos objectifs d'apprentissage pour savoir ce que vous cherchez."
+        },
+        {
+          "question": "Qu'est-ce qu'il est important de vérifier avant de s'inscrire à un cours en ligne ?",
+          "options": [
+            "Les prérequis et le niveau de difficulté",
+            "Les conditions d'inscription et les coûts associés",
+            "Les descriptions et les avis",
+            "Les mots-clés utilisés pour la recherche"
+          ],
+          "bonne_reponse": "A",
+          "explication": "Il est important de vérifier les prérequis et le niveau de difficulté pour vous assurer que vous êtes prêt à suivre le cours."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Recherchez un cours en ligne qui correspond à vos objectifs d'apprentissage et suivez les étapes pour vous assurer qu'il est adapté à vos besoins.",
+        "instructions": [
+          "Définissez vos objectifs d'apprentissage",
+          "Recherchez des cours en ligne qui correspondent à vos objectifs",
+          "Lisez les descriptions et les avis des cours",
+          "Vérifiez les prérequis et le niveau de difficulté des cours"
+        ],
+        "livrable": "Un document qui décrit le cours que vous avez trouvé et pourquoi il correspond à vos objectifs d'apprentissage",
+        "conseil": "N'oubliez pas de prendre votre temps pour rechercher et de ne pas hésiter à contacter les plateformes d'apprentissage en ligne si vous avez des questions."
+      }
+    },
+    {
+      "numero": 4,
+      "titre": "Suivi des Progrès et Gestion du Temps : Conseils pour Réussir",
+      "contenu": "Le suivi des progrès et la gestion du temps sont des compétences essentielles pour réussir dans n'importe quel domaine. Il est important de comprendre que le temps est une ressource limitée et qu'il faut l'utiliser de manière efficace pour atteindre ses objectifs. Pour ce faire, il est recommandé de définir des objectifs clairs et spécifiques, de créer un plan d'action et de suivre les progrès régulièrement. La gestion du temps implique également de prioriser les tâches, de gérer les distractions et de prendre des pauses pour maintenir la concentration et la motivation. De plus, il est essentiel de développer une routine quotidienne et hebdomadaire pour maintenir la cohérence et la régularité. Il est également important de réviser et d'ajuster régulièrement son plan d'action pour s'assurer qu'il est toujours aligné avec les objectifs. Enfin, il est crucial de rester flexible et de s'adapter aux changements et aux imprévus pour éviter les obstacles et les échecs. Le suivi des progrès et la gestion du temps sont des compétences qui nécessitent de la pratique et de la patience, mais qui peuvent être développées avec le temps et l'expérience. Il est également important de se fixer des deadlines et de les respecter pour maintenir la motivation et la concentration. En résumé, le suivi des progrès et la gestion du temps sont des compétences essentielles pour réussir, et il est important de les développer et de les améliorer régulièrement.",
+      "points_cles": [
+        "Définir des objectifs clairs et spécifiques",
+        "Créer un plan d'action",
+        "Suivre les progrès régulièrement",
+        "Prioriser les tâches",
+        "Gérer les distractions et prendre des pauses"
+      ],
+      "exemple_concret": "Par exemple, si vous voulez apprendre une nouvelle langue, vous pouvez définir un objectif de passer 30 minutes par jour à étudier, créer un plan d'action pour les 3 prochains mois, suivre vos progrès enregistrant vos scores de test et vos progrès dans un journal, et gérer vos distractions en éteignant votre téléphone pendant les séances d'étude.",
+      "anecdote": "J'ai un ami qui a réussi à perdre 10 kg en 3 mois en suivant un plan d'entraînement et de nutrition régulier, et en suivant ses progrès en prenant des mesures et des photos régulièrement. Il a également réussi à gérer ses distractions en créant un environnement de travail propice à la concentration et en prenant des pauses régulières.",
+      "quiz": [
+        {
+          "question": "Quelle est la première étape pour développer une gestion du temps efficace ?",
+          "options": [
+            "Définir des objectifs clairs et spécifiques",
+            "Créer un plan d'action",
+            "Suivre les progrès régulièrement",
+            "Prioriser les tâches"
+          ],
+          "bonne_reponse": "A",
+          "explication": "Définir des objectifs clairs et spécifiques est la première étape pour développer une gestion du temps efficace, car cela permet de déterminer ce que l'on veut accomplir et de créer un plan d'action pour y arriver."
+        },
+        {
+          "question": "Quelle est la principale raison pour laquelle il est important de gérer les distractions ?",
+          "options": [
+            "Pour augmenter la motivation",
+            "Pour améliorer la concentration",
+            "Pour réduire le stress",
+            "Pour augmenter la productivité"
+          ],
+          "bonne_reponse": "B",
+          "explication": "La principale raison pour laquelle il est important de gérer les distractions est pour améliorer la concentration, car les distractions peuvent empêcher de se concentrer sur les tâches importantes et de les accomplir de manière efficace."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un plan d'action pour atteindre un objectif personnel ou professionnel",
+        "instructions": [
+          "Définissez un objectif clair et spécifique",
+          "Créez un plan d'action détaillé pour atteindre l'objectif",
+          "Identifiez les distractions et les obstacles potentiels",
+          "Créez un calendrier pour suivre les progrès",
+          "Réviser et ajuster le plan d'action régulièrement"
+        ],
+        "livrable": "Un plan d'action écrit et détaillé pour atteindre l'objectif",
+        "conseil": "Prenez votre temps pour réfléchir à vos objectifs et à vos priorités, et assurez-vous de rendre votre plan d'action réaliste et adaptable aux changements et aux imprévus."
+      }
+    },
+    {
+      "numero": 5,
+      "titre": "Ressources et Outils Pédagogiques : Comment Maximiser Votre Apprentissage",
+      "contenu": "L'apprentissage est un processus continu qui nécessite l'accès à des ressources et à des outils pédagogiques de qualité. Les débutants doivent comprendre l'importance de disposer d'un environnement d'apprentissage riche et varié pour maximiser leur apprentissage. Les ressources pédagogiques peuvent inclure des livres, des vidéos, des cours en ligne, des simulations et des jeux éducatifs. Les outils pédagogiques, tels que les plateformes d'apprentissage en ligne, les applications mobiles et les logiciels éducatifs, peuvent aider les apprenants à organiser leur temps, à suivre leurs progrès et à interagir avec les autres apprenants. Il est essentiel de choisir les ressources et les outils qui conviennent le mieux à vos besoins et à vos objectifs d'apprentissage. Les débutants doivent également apprendre à utiliser ces ressources et outils de manière efficace pour atteindre leurs objectifs. La pratique régulière et la révision sont essentielles pour consolider les connaissances et les compétences acquises. Les apprenants doivent également être capables de demander de l'aide et de recevoir des commentaires constructifs pour améliorer leur apprentissage. Les ressources et les outils pédagogiques peuvent également aider les apprenants à développer des compétences transversales, telles que la résolution de problèmes, la communication et la collaboration. Enfin, les débutants doivent être conscients de l'importance de la motivation et de la persévérance pour atteindre leurs objectifs d'apprentissage.",
+      "points_cles": [
+        "Utiliser des ressources pédagogiques variées pour enrichir l'apprentissage",
+        "Choisir les outils pédagogiques qui conviennent le mieux à vos besoins et à vos objectifs",
+        "Pratiquer régulièrement et réviser pour consolider les connaissances et les compétences",
+        "Demander de l'aide et recevoir des commentaires constructifs pour améliorer l'apprentissage"
+      ],
+      "exemple_concret": "Un exemple concret de l'utilisation de ressources et d'outils pédagogiques pour maximiser l'apprentissage est l'utilisation d'une plateforme d'apprentissage en ligne pour suivre des cours de langues étrangères. Les apprenants peuvent utiliser des vidéos, des exercices interactifs et des jeux pour améliorer leur compréhension et leur expression orale et écrite.",
+      "anecdote": "Un apprenant qui a utilisé une plateforme d'apprentissage en ligne pour améliorer ses compétences en langues étrangères a pu voyager à l'étranger et communiquer avec des locuteurs natifs sans difficulté. Cela montre l'importance de l'utilisation de ressources et d'outils pédagogiques pour atteindre les objectifs d'apprentissage.",
+      "quiz": [
+        {
+          "question": "Qu'est-ce qui est essentiel pour maximiser l'apprentissage ?",
+          "options": [
+            "Utiliser une seule ressource pédagogique",
+            "Choisir les outils pédagogiques qui conviennent le mieux à vos besoins",
+            "Pratiquer régulièrement et réviser",
+            "Toutes les réponses précédentes"
+          ],
+          "bonne_reponse": "Toutes les réponses précédentes",
+          "explication": "Toutes les options sont essentielles pour maximiser l'apprentissage. Les apprenants doivent utiliser des ressources pédagogiques variées, choisir les outils pédagogiques qui conviennent le mieux à leurs besoins et pratiquer régulièrement et réviser pour consolider les connaissances et les compétences."
+        },
+        {
+          "question": "Qu'est-ce que les ressources pédagogiques peuvent inclure ?",
+          "options": [
+            "Des livres",
+            "Des vidéos",
+            "Des cours en ligne",
+            "Toutes les réponses précédentes"
+          ],
+          "bonne_reponse": "Toutes les réponses précédentes",
+          "explication": "Les ressources pédagogiques peuvent inclure des livres, des vidéos, des cours en ligne et d'autres types de ressources pour enrichir l'apprentissage."
+        }
+      ],
+      "exercice": {
+        "type": "pratique",
+        "enonce": "Créez un plan d'apprentissage pour améliorer vos compétences en langues étrangères en utilisant des ressources et des outils pédagogiques",
+        "instructions": [
+          "Choisissez une langue étrangère que vous souhaitez apprendre",
+          "Recherchez des ressources pédagogiques en ligne, telles que des cours, des vidéos et des exercices interactifs",
+          "Créez un calendrier pour pratiquer régulièrement et réviser",
+          "Demandez de l'aide et recevez des commentaires constructifs pour améliorer votre apprentissage"
+        ],
+        "livrable": "Un plan d'apprentissage détaillé pour améliorer vos compétences en langues étrangères",
+        "conseil": "Assurez-vous de choisir des ressources et des outils pédagogiques qui conviennent à vos besoins et à vos objectifs d'apprentissage, et de pratiquer régulièrement pour consolider les connaissances et les compétences."
+      }
+    }
+  ],
+  "projet_final": {
+    "titre": "Création d'un parcours de formation personnalisé",
+    "description": "Les apprenants devront créer un parcours de formation personnalisé pour un public cible spécifique, en utilisant les outils et les ressources de Novi Académie",
+    "etapes": [
+      "Définition du public cible et des objectifs de formation",
+      "Conception du parcours de formation",
+      "Sélection des ressources et des outils pédagogiques",
+      "Mise en place d'un système de suivi et d'évaluation",
+      "Présentation du projet"
+    ],
+    "criteres_evaluation": [
+      "Pertinence du public cible et des objectifs de formation",
+      "Qualité de la conception et de la mise en place du parcours de formation",
+      "Utilisation efficace des ressources et des outils pédagogiques"
+    ],
+    "livrable_final": "Un document détaillé présentant le parcours de formation personnalisé, ainsi qu'une présentation orale"
+  },
+  "examen_oral": {
+    "questions": [
+      "Quels sont les principaux défis que vous avez rencontrés lors de la conception de votre parcours de formation ?",
+      "Comment avez-vous défini votre public cible et quels sont les besoins spécifiques que vous avez pris en compte ?",
+      "Quelles ressources et quels outils pédagogiques avez-vous utilisés pour mettre en place votre parcours de formation ?",
+      "Comment allez-vous évaluer l'efficacité de votre parcours de formation ?",
+      "Quelles sont les perspectives d'évolution et d'amélioration de votre parcours de formation ?"
+    ],
+    "criteres_evaluation": [
+      "Clarté et précision de la présentation",
+      "Exemples concrets et pertinents",
+      "Originalité et créativité de la conception et de la mise en place du parcours de formation",
+      "Capacité à répondre aux questions et à justifier les choix pédagogiques"
+    ]
+  },
+  "ressources": [
+    {
+      "titre": "Guide de conception de parcours de formation",
+      "type": "article",
+      "description": "Un guide détaillé pour concevoir des parcours de formation efficaces et personnalisés"
+    },
+    {
+      "titre": "Les outils pédagogiques de Novi Académie",
+      "type": "video",
+      "description": "Une présentation vidéo des outils pédagogiques disponibles sur Novi Académie"
+    },
+    {
+      "titre": "Évaluation et suivi des parcours de formation",
+      "type": "livre",
+      "description": "Un livre sur les méthodes et les outils pour évaluer et suivre les parcours de formation"
+    }
+  ]
+}
